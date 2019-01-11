@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring5-Form-Validation-Example.iml" filepath="$PROJECT_DIR$/Spring5-Form-Validation-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/Spring5-MVC-Content-Negotiating-View-Resolver.iml" filepath="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/Spring5-MVC-Content-Negotiating-View-Resolver.iml" />
+    </modules>
+  </component>
+</project>
