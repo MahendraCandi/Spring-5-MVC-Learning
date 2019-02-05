@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d3eea5-1917-4dab-8c2e-d745975476f9" name="Default Changelist" comment="" />
+    <list default="true" id="45d3eea5-1917-4dab-8c2e-d745975476f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/Spring-5-Apache-Tiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/controller/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/contactus.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/products.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultLayouts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultFooter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultHeader.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultMenu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/tiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/image/pict-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/artifacts/Spring_5_Apache_Tiles_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/artifacts/Spring_5_Apache_Tiles_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/Spring5-Form-Validation-Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/Spring5-MVC-Content-Negotiating-View-Resolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Form-Validation-Example/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="D:/Abdu/PROJECT/CHATBOT PROJECT/1. FIF FILE/restapifif/target/" />
     <ignored path="$PROJECT_DIR$/../Spring5-Hello-World-Annotations-Example/target/" />
@@ -16,10 +40,11 @@
     <session id="-1975756112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.55" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -103,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Spring5-Hello-World-Annotations-Example/src/main/java/com/mahendracandi/spring5helloworldannotationsexample/controller/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="330">
               <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Spring5-Hello-World-Annotations-Example/src/main/java/com/mahendracandi/spring5helloworldannotationsexample/configuration/AppConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="60">
               <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
@@ -139,7 +164,7 @@
         <entry file="file://$PROJECT_DIR$/../Spring5-Form-Validation-Example/src/main/webapp/static/bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -154,7 +179,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/Abdu/PROJECT/CHATBOT PROJECT/1. FIF FILE/restapifif" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,17 +199,19 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +268,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,10 +306,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12481089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,7 +386,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Spring5-Hello-World-Annotations-Example/src/main/java/com/mahendracandi/spring5helloworldannotationsexample/controller/HelloWorldController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="330">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -371,7 +396,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Spring5-Hello-World-Annotations-Example/src/main/java/com/mahendracandi/spring5helloworldannotationsexample/configuration/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="60">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
@@ -389,7 +414,7 @@
     <entry file="file://$PROJECT_DIR$/../Spring5-Form-Validation-Example/src/main/webapp/static/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -6,13 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring-5-Apache-Tiles" />
+        <module name="Spring-5-MVC-REST-Service-Hello-World" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Spring-5-Apache-Tiles" target="1.8" />
-      <module name="Spring4MVCFormValidationExample" target="1.5" />
-      <module name="Spring5-Form-Validation-Example" target="1.8" />
-      <module name="Spring5-MVC-Content-Negotiating-View-Resolver" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

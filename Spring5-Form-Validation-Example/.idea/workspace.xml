@@ -6,10 +6,63 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2a2845-0cd3-45c1-b805-4f90ac2f8c6e" name="Default Changelist" comment="" />
+    <list default="true" id="1a2a2845-0cd3-45c1-b805-4f90ac2f8c6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/Spring-5-Apache-Tiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/controller/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/contactus.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/products.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultLayouts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultFooter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultHeader.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultMenu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/tiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/image/pict-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_5_Apache_Tiles_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_5_Apache_Tiles_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_api_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_autotag_core_runtime_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_core_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_jsp_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_api_1_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_jsp_1_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_servlet_1_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_servlet_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_template_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring5-Form-Validation-Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/Spring5-MVC-Content-Negotiating-View-Resolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Hello-World/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Hello-World/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring5-Hello-World/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5-Hello-World/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../Spring4MVCFormValidationExample/target/" />
     <ignored path="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/target/" />
+    <ignored path="$PROJECT_DIR$/../Spring-5-Apache-Tiles/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,183 +73,71 @@
     <session id="1789086247">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.84" value="1" />
           <entry key="project.open.time.88" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.89" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="css" value="4" />
+          <entry key="css" value="9" />
           <entry key="iml" value="1" />
-          <entry key="java" value="54" />
-          <entry key="jsp" value="9" />
-          <entry key="properties" value="2" />
+          <entry key="java" value="68" />
+          <entry key="jsp" value="37" />
+          <entry key="png" value="2" />
+          <entry key="properties" value="4" />
           <entry key="spel" value="1" />
-          <entry key="xml" value="10" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="CSS" value="4" />
+          <entry key="CSS" value="9" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="54" />
-          <entry key="JSP" value="9" />
-          <entry key="Properties" value="2" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="68" />
+          <entry key="JSP" value="37" />
+          <entry key="Properties" value="4" />
           <entry key="SpEL" value="1" />
-          <entry key="XML" value="10" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="13" />
-          <entry key="java" value="6102" />
-          <entry key="jsp" value="2504" />
+          <entry key="css" value="117" />
+          <entry key="java" value="7377" />
+          <entry key="jsp" value="3394" />
           <entry key="properties" value="674" />
-          <entry key="xml" value="320" />
+          <entry key="xml" value="815" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="13" />
-          <entry key="JAVA" value="6102" />
-          <entry key="JSP" value="2504" />
+          <entry key="CSS" value="117" />
+          <entry key="JAVA" value="7377" />
+          <entry key="JSP" value="3394" />
           <entry key="Properties" value="674" />
-          <entry key="XML" value="320" />
+          <entry key="XML" value="815" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/PdfView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/ExcelView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/view/document/AbstractXlsView.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/view/AbstractView.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="573" selection-start-line="573" selection-end-line="573" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/ExcelViewResolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/AbstractITextPdfView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/webapp/WEB-INF/views/Pizza.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/PdfViewResolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3192#3193#0" expanded="true" />
-                <element signature="e#3237#3238#0" expanded="true" />
-                <element signature="e#3291#3292#0" expanded="true" />
-                <element signature="e#3335#3336#0" expanded="true" />
-                <element signature="e#3391#3392#0" expanded="true" />
-                <element signature="e#3437#3438#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -205,11 +146,15 @@
       <find>help</find>
       <find>help-inline</find>
       <find>has-er</find>
+      <find>&lt;div&gt;     &lt;header id=&quot;header&quot;&gt;         &lt;tiles:insertAttribute name=&quot;header&quot;/&gt;     &lt;/header&gt;      &lt;section id=&quot;sidemenu&quot;&gt;         &lt;tiles:insertAttribute name=&quot;menu&quot;/&gt;     &lt;/section&gt;      &lt;section id=&quot;site-content&quot;&gt;         &lt;tiles:insertAttribute name=&quot;body&quot; /&gt;     &lt;/section&gt;      &lt;section id=&quot;footer&quot;&gt;     &lt;tiles:insertAttribute name=&quot;footer&quot;/&gt;     &lt;/section&gt; &lt;/div&gt;</find>
     </findStrings>
     <dirStrings>
       <dir>D:\candi\Learning-Spring5-Mvc\Spring4MVCFormValidationExample\src</dir>
       <dir>D:\candi\Learning-Spring5-Mvc\Spring4MVCFormValidationExample\src\main</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -231,12 +176,28 @@
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/controller/AppController.java" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppInitializer.java" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/Jaxb2MarshallingXmlViewResolver.java" />
-        <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppConfig.java" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/PdfView.java" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/webapp/WEB-INF/views/Pizza.jsp" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/ExcelViewResolver.java" />
         <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/ExcelView.java" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultlayouts.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultHeader.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultMenu.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppConfig.java" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/tiles.xml" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/home.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/products.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/contactus.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/controller/AppController.java" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppInitializer.java" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultMenu.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultHeader.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultFooter.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultLayouts.jsp" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppConfig.java" />
+        <option value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -255,17 +216,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Spring5-Form-Validation-Example Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -286,6 +243,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -296,264 +256,25 @@
           <expand>
             <path>
               <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-5-Apache-Tiles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-5-Apache-Tiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-5-Apache-Tiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-5-Apache-Tiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5formvalidationexample" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5formvalidationexample" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="configuration" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-Form-Validation-Example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="configuration" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="spring5mvccontentnegotiatingviewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="viewresolver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Spring5-MVC-Content-Negotiating-View-Resolver" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -575,19 +296,178 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring5apachetiles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mahendracandi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring5apachetiles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="configuration" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tiles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tiles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="layouts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Spring5-Form-Validation-Example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Spring-5-Apache-Tiles" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tiles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="template" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/candi/Learning-Spring5-Mvc/Spring5-Form-Validation-Example/src/main/java/com/mahendracandi/spring5formvalidationexample/model/Student.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547194968511" />
-    <property name="last_opened_file_path" value="D:/Abdu/PROJECT/CHATBOT PROJECT/2. ACC FILE/ACC/SDK/Workspace/Sdk-WebService-YunaACC/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548993390659" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-5-Apache-Tiles/pom.xml" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\candi\Learning-Spring5-Mvc\Spring-5-Apache-Tiles\src\main\webapp\WEB-INF\views\tiles\template" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\candi\Learning-Spring5-Mvc\Spring-5-Apache-Tiles\src\main\webapp\static\image" />
+      <recent name="D:\candi\Learning-Spring5-Mvc\Spring-5-Apache-Tiles\src\main\resources" />
       <recent name="D:\candi\Learning-Spring5-Mvc\Spring5-MVC-Content-Negotiating-View-Resolver\src\main\resources" />
     </key>
   </component>
@@ -643,7 +523,7 @@
       <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="hot-swap-classes" />
       <deployment>
-        <artifact name="Spring5-MVC-Content-Negotiating-View-Resolver:war">
+        <artifact name="Spring-5-Apache-Tiles:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -738,7 +618,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546913857230</updated>
       <workItem from="1546913870585" duration="40853000" />
-      <workItem from="1547037318164" duration="28287000" />
+      <workItem from="1547037318164" duration="31670000" />
+      <workItem from="1547518631885" duration="77000" />
+      <workItem from="1548814108167" duration="19296000" />
+      <workItem from="1548908686555" duration="7548000" />
+      <workItem from="1548987399818" duration="5642000" />
+      <workItem from="1548993503711" duration="166000" />
     </task>
     <servers />
   </component>
@@ -754,7 +639,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69140000" />
+    <option name="totallyTimeSpent" value="105252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -766,38 +651,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4975728" visible="true" weight="0.19364598" />
+      <window_info id="Structure" order="1" sideWeight="0.50242716" side_tool="true" weight="0.3623298" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50242716" side_tool="true" weight="0.3623298" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44353518" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45335516" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5499182" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5714286" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.5253683" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32569557" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.57610476" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32569557" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32436976" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.36497545" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49924356" weight="0.32569557" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.57610476" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32436976" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.57610476" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32569557" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49918166" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.5048544" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.50075644" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.5008183" side_tool="true" weight="0.24962178" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.50075644" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -873,6 +758,10 @@
     </expand>
     <select />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Spring5-Form-Validation-Example.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -884,39 +773,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/static/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/WEB-INF/views/enroll.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/static/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/static/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/../Spring4MVCFormValidationExample/src/main/webapp/WEB-INF/views/enroll.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mahendracandi/spring5formvalidationexample/configuration/Initializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,9 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,9 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,9 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <marker date="1547019821781" expanded="true" signature="673:4601" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -977,14 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,11 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,11 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,9 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,9 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1036,39 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/webapp/WEB-INF/views/Pizza.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3192#3193#0" expanded="true" />
-            <element signature="e#3237#3238#0" expanded="true" />
-            <element signature="e#3291#3292#0" expanded="true" />
-            <element signature="e#3335#3336#0" expanded="true" />
-            <element signature="e#3391#3392#0" expanded="true" />
-            <element signature="e#3437#3438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="108" column="4" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1082,14 +876,7 @@
     <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/AbstractITextPdfView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-          </folding>
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
@@ -1113,10 +900,7 @@
     <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/viewresolver/ExcelViewResolver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1146,17 +930,209 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="671">
           <caret line="573" selection-start-line="573" selection-end-line="573" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/image/pict-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/java/com/mahendracandi/spring5mvccontentnegotiatingviewresolver/configuration/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="145" column="10" selection-start-line="124" selection-start-column="2" selection-end-line="145" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring5-MVC-Content-Negotiating-View-Resolver/src/main/webapp/WEB-INF/views/Pizza.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/tiles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/products.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/contactus.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/pages/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/java/com/mahendracandi/spring5apachetiles/configuration/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultMenu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/layouts/defaultLayouts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultHeader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/WEB-INF/views/tiles/template/defaultFooter.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spring-5-Apache-Tiles/src/main/webapp/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Spring-5-Apache-Tiles:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring-5-Apache-Tiles</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-beanutils:commons-beanutils:1.8.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
